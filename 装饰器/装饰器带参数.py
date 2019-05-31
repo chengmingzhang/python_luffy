@@ -54,4 +54,6 @@ def gen():
 def china():
     print('国人专区'.center(30, '-'))
 
+
+gen()
 china()
