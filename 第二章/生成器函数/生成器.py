@@ -25,4 +25,4 @@ f = generator()  # 执行生成器函数，第一次得到的是一个生成器�
 print(next(f))
 print(next(f))
 print(f.send(8))
-print(f.send('stop'))
+print(f.send('9'))
