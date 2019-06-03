@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2232d9a-41ae-449a-9c72-f2b561f6ae90" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/url_list.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/元尊.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/爬取笔趣阁小说_元尊.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/爬取笔趣阁小说_元尊_追加更新章节抓取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/爬虫/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/爬虫/爬取笔趣阁小说_妖神记.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,24 +15,21 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/爬取剑来小说网站小说.py">
+        <entry file="file://$PROJECT_DIR$/爬虫/爬取笔趣阁小说_妖神记.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-              <folding>
-                <element signature="e#35#50#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="396">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/爬虫/爬取笔趣阁小说_元尊_追加更新章节抓取.py">
+        <entry file="file://$PROJECT_DIR$/爬虫/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="51" column="10" lean-forward="true" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+            <state relative-caret-position="380">
+              <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
               <folding>
-                <element signature="e#34#49#0" expanded="true" />
+                <element signature="e#35#50#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,10 +63,14 @@
         <option value="$PROJECT_DIR$/爬虫/爬取笔趣阁小说_元尊_追加更新章节抓取.py" />
         <option value="$PROJECT_DIR$/爬虫/元尊.txt" />
         <option value="$PROJECT_DIR$/爬虫/url_list.txt" />
+        <option value="$PROJECT_DIR$/爬虫/爬取笔趣阁小说_妖神记.py" />
+        <option value="$PROJECT_DIR$/爬虫/11" />
+        <option value="$PROJECT_DIR$/爬虫/妖神记.txt" />
+        <option value="$PROJECT_DIR$/爬虫/test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="260" />
     <option name="y" value="25" />
     <option name="width" value="1400" />
@@ -95,6 +93,11 @@
               <item name="python_luffy" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_luffy" type="462c0819:PsiDirectoryNode" />
               <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_luffy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_luffy" type="462c0819:PsiDirectoryNode" />
+              <item name="第二章" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.爬取笔趣阁小说_元尊_追加更新章节抓取">
+  <component name="RunManager" selected="Python.test">
     <configuration name="爬取剑来小说网站小说" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_luffy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,6 +175,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="爬取笔趣阁小说_妖神记" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_luffy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/爬取笔趣阁小说_妖神记.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="爬取笔趣阁小说_元尊_追加更新章节抓取" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_luffy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,8 +219,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_luffy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.爬取笔趣阁小说_妖神记" />
         <item itemvalue="Python.爬取笔趣阁小说_元尊_追加更新章节抓取" />
         <item itemvalue="Python.爬取笔趣阁小说_元尊" />
         <item itemvalue="Python.爬取剑来小说网站小说" />
@@ -212,7 +261,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559527008814</updated>
-      <workItem from="1559527010819" duration="7462000" />
+      <workItem from="1559527010819" duration="14614000" />
     </task>
     <task id="LOCAL-00001" summary="新增爬虫requests、pyquery爬去剑来小说的使用">
       <created>1559529583534</created>
@@ -221,17 +270,24 @@
       <option name="project" value="LOCAL" />
       <updated>1559529583534</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新增爬虫requests、pyquery爬去剑来小说、笔趣阁小说">
+      <created>1559534769850</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559534769850</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7462000" />
+    <option name="totallyTimeSpent" value="14614000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="260" y="25" width="1400" height="1000" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -242,7 +298,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41800642" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.449827" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -259,11 +315,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增爬虫requests、pyquery爬去剑来小说的使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增爬虫requests、pyquery爬去剑来小说的使用" />
+    <MESSAGE value="新增爬虫requests、pyquery爬去剑来小说、笔趣阁小说" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增爬虫requests、pyquery爬去剑来小说、笔趣阁小说" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_luffy$__.coverage" NAME="爬取笔趣阁小说_元尊_追加更新章节抓取 Coverage Results" MODIFIED="1559533283190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
-    <SUITE FILE_PATH="coverage/python_luffy$_.coverage" NAME="爬取笔趣阁小说_元尊 Coverage Results" MODIFIED="1559530368203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/python_luffy$_.coverage" NAME="爬取笔趣阁小说_妖神记 Coverage Results" MODIFIED="1559537417399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/python_luffy$test.coverage" NAME="test Coverage Results" MODIFIED="1559548528587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
     <SUITE FILE_PATH="coverage/python_luffy$.coverage" NAME="爬取剑来小说网站小说 Coverage Results" MODIFIED="1559529149134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
   </component>
   <component name="editorHistoryManager">
@@ -280,6 +338,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/url_list.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/元尊.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章/python cookbook/第四章-生成器和迭代器/生成器.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/爬取笔趣阁小说_元尊_追加更新章节抓取.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="51" column="10" lean-forward="true" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+          <folding>
+            <element signature="e#34#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/爬取剑来小说网站小说.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -290,18 +367,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/url_list.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/元尊.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/爬取笔趣阁小说_元尊_追加更新章节抓取.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/爬取笔趣阁小说_妖神记.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="51" column="10" lean-forward="true" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+        <state relative-caret-position="396">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/妖神记.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/11">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/伏天氏txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/大侠给跪.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
           <folding>
-            <element signature="e#34#49#0" expanded="true" />
+            <element signature="e#35#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
