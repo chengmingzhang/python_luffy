@@ -3,7 +3,6 @@
 
 import requests
 from pyquery import PyQuery as pq
-import os
 
 
 def user_if_exits():
